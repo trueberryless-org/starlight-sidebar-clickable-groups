@@ -1,10 +1,10 @@
-import type { StarlightPlugin } from '@astrojs/starlight/types'
+import type { StarlightPlugin } from "@astrojs/starlight/types";
 
 export default function starlightSidebarClickableGroups(): StarlightPlugin {
   return {
-    name: 'starlight-sidebar-clickable-groups',
+    name: "starlight-sidebar-clickable-groups",
     hooks: {
-      'config:setup'({ logger }) {
+      "config:setup"({ logger }) {
         /**
          * This is the entry point of your Starlight plugin.
          * The `config:setup` hook is called when Starlight is initialized (during the Astro `astro:config:setup`
@@ -14,8 +14,10 @@ export default function starlightSidebarClickableGroups(): StarlightPlugin {
          *
          * @see https://starlight.astro.build/reference/plugins/
          */
-        logger.info('Hello from the starlight-sidebar-clickable-groups plugin!')
+        logger.info(
+          "Hello from the starlight-sidebar-clickable-groups plugin!"
+        );
       },
     },
-  }
+  };
 }

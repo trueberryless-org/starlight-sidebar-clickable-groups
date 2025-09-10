@@ -1,9 +1,18 @@
 {
   "name": "starlight-sidebar-clickable-groups",
   "version": "0.0.1",
-  "license": "MIT",
   "description": "Make Starlight sidebar groups clickable by linking them to their index page.",
-  "author": "trueberryless-org",
+  "homepage": "https://github.com/trueberryless-org/starlight-sidebar-clickable-groups",
+  "bugs": {
+    "url": "https://github.com/trueberryless-org/starlight-sidebar-clickable-groups/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trueberryless-org/starlight-sidebar-clickable-groups.git",
+    "directory": "packages/starlight-sidebar-clickable-groups"
+  },
+  "license": "MIT",
+  "author": "trueberryless <trueberryless@gmail.com> (https://trueberryless.org)",
   "type": "module",
   "exports": {
     ".": "./index.ts"
@@ -20,12 +29,5 @@
   },
   "publishConfig": {
     "access": "public"
-  },
-  "homepage": "https://github.com/trueberryless-org/starlight-sidebar-clickable-groups",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/trueberryless-org/starlight-sidebar-clickable-groups.git",
-    "directory": "packages/starlight-sidebar-clickable-groups"
-  },
-  "bugs": "https://github.com/trueberryless-org/starlight-sidebar-clickable-groups/issues"
+  }
 }

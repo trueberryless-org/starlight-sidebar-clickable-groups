@@ -15,7 +15,9 @@
   "author": "trueberryless <trueberryless@gmail.com> (https://trueberryless.org)",
   "type": "module",
   "exports": {
-    ".": "./index.ts"
+    ".": "./index.ts",
+    "./overrides/Sidebar.astro": "./overrides/Sidebar.astro",
+    "./components/Sidebar.astro": "./components/starlight/Sidebar.astro"
   },
   "devDependencies": {
     "@astrojs/starlight": "^0.35.2",

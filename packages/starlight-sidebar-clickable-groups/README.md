@@ -12,4 +12,4 @@ Check out the `starlight-sidebar-clickable-groups` getting started guide.
 
 Licensed under the MIT license, Copyright © trueberryless.
 
-See [LICENSE](/LICENSE) for more information.
+See [LICENSE](https://github.com/trueberryless-org/starlight-sidebar-clickable-groups/blob/main/LICENSE) for more information.

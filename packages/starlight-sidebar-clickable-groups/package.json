@@ -2,7 +2,7 @@
   "name": "starlight-sidebar-clickable-groups",
   "version": "0.0.1",
   "description": "Make Starlight sidebar groups clickable by linking them to their index page.",
-  "homepage": "https://github.com/trueberryless-org/starlight-sidebar-clickable-groups",
+  "homepage": "https://starlight-sidebar-clickable-groups.trueberryless.org",
   "bugs": {
     "url": "https://github.com/trueberryless-org/starlight-sidebar-clickable-groups/issues"
   },

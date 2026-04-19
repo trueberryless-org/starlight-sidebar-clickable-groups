@@ -23,9 +23,9 @@
     "start": "astro dev"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.35.2",
-    "astro": "^5.13.7",
-    "sharp": "^0.34.3",
+    "@astrojs/starlight": "^0.38.3",
+    "astro": "^5.18.1",
+    "sharp": "^0.34.5",
     "starlight-sidebar-clickable-groups": "workspace:*"
   },
   "packageManager": "pnpm@10.10.0",

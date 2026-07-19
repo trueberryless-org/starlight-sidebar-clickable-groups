@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "description": "Make Starlight sidebar groups clickable by linking them to their index page.",
-  "homepage": "https://starlight-sidebar-clickable-groups.trueberryless.org",
+  "homepage": "https://starlight-sidebar-clickable-groups.netlify.app/",
   "bugs": {
     "url": "https://github.com/trueberryless-org/starlight-sidebar-clickable-groups/issues"
   },
@@ -13,7 +13,7 @@
     "directory": "docs"
   },
   "license": "MIT",
-  "author": "trueberryless <trueberryless@gmail.com> (https://trueberryless.org)",
+  "author": "trueberryless <trueberryless@gmail.com> (https://felixs.dev)",
   "type": "module",
   "scripts": {
     "astro": "astro",
